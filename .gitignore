@@ -1,0 +1,6 @@
+*.pickle
+eval-data/
+other-data/
+doggy-frames/
+other-gt-flow/
+other-gt-interp/
